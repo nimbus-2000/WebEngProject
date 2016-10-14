@@ -1,0 +1,3 @@
+# Module miniproject
+# RPC service class, partial path of RPC policy file
+ch.webengineers.miniproject.client.GreetingService, 96787132394DAC278B4A5999499D35DA.gwt.rpc

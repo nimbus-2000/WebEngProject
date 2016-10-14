@@ -1,0 +1,2 @@
+serviceClass: ch.webengineers.miniproject.client.GreetingService
+path: 96787132394DAC278B4A5999499D35DA.gwt.rpc
